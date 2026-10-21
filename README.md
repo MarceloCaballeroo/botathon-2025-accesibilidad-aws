@@ -79,6 +79,6 @@ Son módulos de un prototipo de hackatón: priorizan que la experiencia accesibl
 
 ## Autor
 
-Marcelo Caballero Olave · [LinkedIn](https://www.linkedin.com/in/marcelo-caballero-olave) · [Portafolio](https://portafolio.marcelo-caballero.workers.dev/)
+Marcelo Caballero Olave · [LinkedIn](https://www.linkedin.com/in/marcelo-caballero-olave) · [Portafolio](https://marcelocaballero.me/)
 
 Licencia MIT.
